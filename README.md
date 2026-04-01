@@ -24,5 +24,5 @@ I'm a Computer Science student at the University of Management & Technology (GPA
 
 ###  Let's Connect!
 * **LinkedIn:** [linkedin.com/in/muhammad-talib-ibrahim](https://linkedin.com/in/muhammad-talib-ibrahim) 
-* **GitHub:** [github.com/muzammil-shayk](https://github.com/muzammil-shayk) 
+* **Portfolio:** (https://m-muzammil.vercel.app) 
 * **Email:** m.muzammil47@protonmail.com
