@@ -3,9 +3,9 @@
 I'm a Computer Science student at the University of Management & Technology (GPA: 3.5, Expected May 2027). I'm a full-stack developer passionate about building interactive, scalable web applications, with hands-on experience in MERN stack development and game programming. 
 
 ###  What I'm Up To
-*  **Currently learning:** Diving deeper into **NextJS** to expand on my learning horizon.
+*  **Currently learning:** Diving deeper into **AI & ML** to expand on my learning horizon.
 *  **Upcoming Launch:** Gearing up for the summer launch of **Byters**, a food review platform I co-founded.
-*  **Ask me about:** Frontend development, game physics, or optimizing React apps.
+*  **Ask me about:** Full Stack development, game physics, or optimizing React apps.
 
 ###  Tech Stack
 * **Languages:** C++, JavaScript (ES6+), C#, HTML5, CSS3 
