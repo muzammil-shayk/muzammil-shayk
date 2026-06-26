@@ -1,6 +1,6 @@
 # Hi there, I'm Muhammad Muzammil! 
 
-I'm a Computer Science student at the University of Management & Technology (GPA: 3.5, Expected May 2027). I'm a full-stack developer passionate about building interactive, scalable web applications, with hands-on experience in MERN stack development and game programming. 
+I'm a Computer Science student (GPA: 3.5, Expected May 2027). I'm a full-stack developer passionate about building interactive, scalable web applications, with hands-on experience in MERN stack development and game programming. 
 
 ###  What I'm Up To
 *  **Currently learning:** Diving deeper into **AI & ML** to expand on my learning horizon.
