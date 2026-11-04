@@ -1,28 +1,30 @@
-# Hi there, I'm Muhammad Muzammil! 
+# Hi, I'm Muzammil
 
-I'm a Computer Science student (GPA: 3.5, Expected May 2027). I'm a full-stack developer passionate about building interactive, scalable web applications, with hands-on experience in MERN stack development and game programming. 
+Full-stack engineer in Lahore, Pakistan. I ship across web, mobile (React Native / Expo), desktop (Electron) and AI-assisted workflows.
+BS Computer Science at UMT Lahore (CGPA 3.50). Open to work alongside my studies, remote, or on-site in Lahore.
 
-###  What I'm Up To
-*  **Currently learning:** Diving deeper into **AI & ML** to expand on my learning horizon.
-*  **Upcoming Launch:** Gearing up for the summer launch of **Byters**, a food review platform I co-founded.
-*  **Ask me about:** Full Stack development, game physics, or optimizing React apps.
+[Portfolio](https://www.m-muzammil.dev) · [LinkedIn](https://www.linkedin.com/in/muhammad-muzammil-8771a4309) · m.muzammil47@protonmail.com
 
-###  Tech Stack
-* **Languages:** C++, JavaScript (ES6+), C#, HTML5, CSS3 
-* **Frameworks & Libraries:** Next.js, React.js, Node.js, Express.js, Tailwind CSS
-* **Databases & Cloud:** MongoDB (Mongoose), MySQL, Cloudinary 
-* **Tools & Platforms:** Git, GitHub, Postman, Unity, Vercel, Arduino Uno 
-* **Certifications:** Google AI Fundamentals, Fullstack Web Development (MERN) 
+## What I build
 
-###  Experience & Leadership
-* **Game Development Intern @ Mindstorm Studios (June 2024 - Aug 2024):** Developed a physics-based puzzle game with custom drag-and-release mechanics and scripted complex level logic in C#.
+| Project | What it is | Stack |
+|---|---|---|
+| **[Byters](https://byters.site)** | Live team project with friends, still improving: restaurant review platform, Next.js site and Expo app on one REST API, with leaderboard, badges and AI review summaries. I worked mainly on the mobile app and the website | Next.js, React Native, MongoDB |
+| **[Marginalia](https://github.com/muzammil-shayk/Marginalia)** | Co-developed desktop app to read and annotate PDF, EPUB, DOCX and TXT. Auto-update CI, released through v2.6.0 | Electron, React, TypeScript |
+| **[AirBeam](https://github.com/muzammil-shayk/AirBeam)** | No-login file sharing with keys and QR codes, 5-minute expiry | React, Express, MongoDB GridFS |
+| **[AirQR](https://github.com/muzammil-shayk/AirQR)** | QR code generator with a free public API | Next.js, TypeScript |
+| **[Handwritten](https://i-penned-it.vercel.app)** | My own project: turns typed text into real handwriting on an A4 page | JavaScript, Vercel |
+| **SlingKick** | Football slingshot game, M-Labs Rookie Game Jam 2024 | Unity, C# |
 
-###  Featured Projects
-* **[Byters Food Review App](https://byters.vercel.app):** A full-stack review platform built with React.js, Node.js, MongoDB, and Redux, enabling users to rate restaurants with a secure authentication system.
-* **[AirBeam (File Sharing Platform)](https://airbeam.onrender.com):** A privacy-first multi-file sharing architecture utilizing React.js and MongoDB.
-* **SlingKick:** A 2D football puzzle game featuring custom game mechanics and physics.
+## Tools I use
 
-###  Let's Connect!
-* **LinkedIn:** [linkedin.com/in/muhammad-talib-ibrahim](https://linkedin.com/in/muhammad-talib-ibrahim) 
-* **Portfolio:** (https://m-muzammil.vercel.app) 
-* **Email:** m.muzammil47@protonmail.com
+**Languages:** JavaScript, TypeScript, C++, C#, SQL
+**Web:** React, Next.js, Tailwind CSS, GSAP, three.js, Node.js, Express, NestJS
+**Mobile and desktop:** React Native, Expo, Electron
+**Data:** MongoDB, GridFS, Redis
+**Tooling:** Git, GitHub Actions, Vercel, Jest, Vite, Claude Code
+
+## Now
+
+- Building and shipping projects in the open.
+- Looking for internship, part-time or junior roles alongside my studies.
